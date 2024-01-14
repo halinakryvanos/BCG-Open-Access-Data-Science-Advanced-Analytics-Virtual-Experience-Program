@@ -25,7 +25,7 @@ I analyzed it the following using Python:
 5. Descriptive statistics of data   
 6. Data visualization  
   a.Churn
-<img width="708" alt="Screenshot 2024-01-14 at 17 49 55" src="https://github.com/halinakryvanos/BCG-Open-Access-Data-Science-Advanced-Analytics-Virtual-Experience-Program/assets/115924234/d42f6052-eddf-4920-8072-528df8e381de">  
+<img width="708" alt="Screenshot 2024-01-14 at 17 49 55" src="https://github.com/halinakryvanos/BCG-Open-Access-Data-Science-Advanced-Analytics-Virtual-Experience-Program/assets/115924234/d42f6052-eddf-4920-8072-528df8e381de">    
   b.Sales channel  
   c.Consumption     
   d.Forecast  
