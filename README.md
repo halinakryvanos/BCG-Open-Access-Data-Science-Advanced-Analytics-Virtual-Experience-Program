@@ -18,26 +18,21 @@ I analyzed it the following using Python:
 - Distributions of columns  
 
 ## 2. Exploratory Data Analysis Starter  
-1. Data Description
-2. Import packages  
-3. Loading Data  
-4. Checking Datasets  
-5. Descriptive statistics of data   
-6. Data visualization  
-  a.Churn
-<img width="708" alt="Screenshot 2024-01-14 at 17 49 55" src="https://github.com/halinakryvanos/BCG-Open-Access-Data-Science-Advanced-Analytics-Virtual-Experience-Program/assets/115924234/d42f6052-eddf-4920-8072-528df8e381de">    
-  b.Sales channel  
-  c.Consumption     
-  d.Forecast  
-  e.Contract type  
-  f.Margins  
-  g.Subscribed power  
-  h.Other columns  
-8. Hypothesis Investigation  
-9. Checking Correlation  
-10. Saving and export the dataframe  
+EDA Summary  
+### Findings:
+● Approximately 10% of customers have churned  
+● Consumption data is highly skewed and must be treated before modelling  
+● There are outliers present in the data and these must be treated before modelling  
+● Price sensitivity has a low correlation with churn  
+● Feature engineering will be vital, especially if we are to increase the predictive power of price sensitivity  
 
-3. Feature Engineering
+### Suggestions:  
+● Competitor price data - perhaps a client is more likely to churn if a competitor has a good offer available?  
+● Average Utilities prices across the country - if PowerCo’s prices are way above or below the country average, will a client be likely to churn?  
+● Client feedback - a track record of any complaints, calls or feedback provided by the client to PowerCo might reveal if a client is likely to churn 
+
+
+## 3. Feature Engineering
 Feature engineering is one of the keys to unlocking predictive insight through mathematical modeling. Based on the data that is available and was cleaned, identify what you think could be drivers of churn for our client and build those features to later use in your model.
 
 5. 
