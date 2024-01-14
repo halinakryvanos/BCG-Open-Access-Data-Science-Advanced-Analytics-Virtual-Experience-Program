@@ -34,7 +34,8 @@ I analyzed it the following using Python:
   h.Other columns  
 7. Hypothesis Investigation  
 8. Checking Correlation  
-9. Saving and export the dataframe  
+9. Saving and export the datafr<img width="708" alt="Screenshot 2024-01-14 at 17 49 55" src="https://github.com/halinakryvanos/BCG-Open-Access-Data-Science-Advanced-Analytics-Virtual-Experience-Program/assets/115924234/d42f6052-eddf-4920-8072-528df8e381de">
+ame  
 
 3. Feature Engineering
 Feature engineering is one of the keys to unlocking predictive insight through mathematical modeling. Based on the data that is available and was cleaned, identify what you think could be drivers of churn for our client and build those features to later use in your model.
