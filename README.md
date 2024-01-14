@@ -20,24 +20,23 @@ I analyzed it the following using Python:
 ## 2. Exploratory Data Analysis Starter  
 EDA Summary  
 ### Findings:
-● Approximately 10% of customers have churned  
-● Consumption data is highly skewed and must be treated before modelling  
-● There are outliers present in the data and these must be treated before modelling  
-● Price sensitivity has a low correlation with churn  
-● Feature engineering will be vital, especially if we are to increase the predictive power of price sensitivity  
+- Approximately 10% of customers have churned  
+- Consumption data is highly skewed and must be treated before modelling  
+- There are outliers present in the data and these must be treated before modelling  
+- Price sensitivity has a low correlation with churn  
+- Feature engineering will be vital, especially if we are to increase the predictive power of price sensitivity  
 
 ### Suggestions:  
-● Competitor price data - perhaps a client is more likely to churn if a competitor has a good offer available?  
-● Average Utilities prices across the country - if PowerCo’s prices are way above or below the country average, will a client be likely to churn?  
-● Client feedback - a track record of any complaints, calls or feedback provided by the client to PowerCo might reveal if a client is likely to churn 
+- Competitor price data - perhaps a client is more likely to churn if a competitor has a good offer available?  
+- Average Utilities prices across the country - if PowerCo’s prices are way above or below the country average, will a client be likely to churn?  
+- Client feedback - a track record of any complaints, calls or feedback provided by the client to PowerCo might reveal if a client is likely to churn 
 
 
 ## 3. Feature Engineering
-Feature engineering is one of the keys to unlocking predictive insight through mathematical modeling. Based on the data that is available and was cleaned, identify what you think could be drivers of churn for our client and build those features to later use in your model.
+Feature engineering is one of the keys to obtaining predictive information through mathematical modeling. Based on the available and cleaned data, it was determined what could cause customer churn and the creation of these functions for subsequent use in the model.
 
-5. 
+## 4. Prediction Model Random Forest Classifier.  
+Built a churn model to try to predict the likelihood of any customer churn, taking into account all the explanatory variables that were created during the feature development process. Model evaluation.
 
-
-
-
-Insights & Recommendations: how we can communicate the value of these predictions by explaining them in a way that matters to the business?
+## 5. Executive Summary 
+Insights & Recommendations: how we can communicate the value of these predictions by explaining them in a way that matters to the business.
