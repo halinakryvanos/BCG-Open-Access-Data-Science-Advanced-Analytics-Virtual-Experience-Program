@@ -1,4 +1,4 @@
-# BCG-Open-Access-Data-Science-Advanced-Analytics-Virtual-Experience-Program  
+# BCG-Open-Access-Data-Science-Advanced-Analytics
 
 PowerCo - a major gas and electricity utility who is concerned about losing customers. PowerCo has had declining profits due to significant customer churn. We have been engaged to drive churn reduction within their Small & Medium Enterprise (SME) customers.  
 
